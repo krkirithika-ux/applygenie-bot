@@ -1,0 +1,76 @@
+{
+    "hi": "Hello! How can I help you today?",
+    "Hi": "Hello! How can I help you today?",
+    "hii": "Hello! How can I help you today?",
+    "Hii": "Hello! How can I help you today?",
+    "hello": "Hello! How can I help you today?",
+    "Hello": "Hello! How can I help you today?",
+
+    "what is the students intake?": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+    "What is the Students Intake?": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+    "department wise students intake": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+    "Department wise students intake": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+    "students intake": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+    "Students Intake": "1. Civil: 60\n2. IT: 60\n3. Electrical: 60\n4. E&TC: 60\n5. Mechanical: 60\n6. CSD: 30",
+
+    "placement department info": "Name of TPO: Mr. John Doe\nContact no.: +91 1234567890",
+    "Placement Department Info": "Name of TPO: Mr. John Doe\nContact no.: +91 1234567890",
+    "placement info": "Name of TPO: Mr. John Doe\nContact no.: +91 1234567890",
+    "Placement Info": "Name of TPO: Mr. John Doe\nContact no.: +91 1234567890",
+
+    "Civil HOD Contact": "Name: Dr. Jane Smith\nContact no.: +91 9876543210",
+    "IT HOD Contact": "Name: Dr. Alice Johnson\nContact no.: +91 8765432109",
+    "Electrical HOD Contact": "Name: Dr. Robert Brown\nContact no.: +91 7654321098",
+    "Mechanical HOD Contact": "Name: Dr. Emily Davis\nContact no.: +91 6543210987",
+    "EnTC HOD Contact": "Name: Dr. Michael Wilson\nContact no.: +91 5432109876",
+    "civil hod contact": "Name: Dr. Jane Smith\nContact no.: +91 9876543210",
+    "it hod contact": "Name: Dr. Alice Johnson\nContact no.: +91 8765432109",
+    "electrical hod contact": "Name: Dr. Robert Brown\nContact no.: +91 7654321098",
+    "mechanical hod contact": "Name: Dr. Emily Davis\nContact no.: +91 6543210987",
+    "entc hod contact": "Name: Dr. Michael Wilson\nContact no.: +91 5432109876",
+
+    "All HOD contact info": "1. Civil HOD: Name: Dr. Jane Smith\nContact no.: +91 9876543210\n2. IT HOD: Name: Dr. Alice Johnson\nContact no.: +91 8765432109\n3. Electrical HOD: Name: Dr. Robert Brown\nContact no.: +91 7654321098\n4. Mechanical HOD: Name: Dr. Emily Davis\nContact no.: +91 6543210987\n5. EnTC HOD: Name: Dr. Michael Wilson\nContact no.: +91 5432109876",
+    "all hod contact info": "1. Civil HOD: Name: Dr. Jane Smith\nContact no.: +91 9876543210\n2. IT HOD: Name: Dr. Alice Johnson\nContact no.: +91 8765432109\n3. Electrical HOD: Name: Dr. Robert Brown\nContact no.: +91 7654321098\n4. Mechanical HOD: Name: Dr. Emily Davis\nContact no.: +91 6543210987\n5. EnTC HOD: Name: Dr. Michael Wilson\nContact no.: +91 5432109876",
+
+    "Admission Department Info": "Name: Mr. David Lee\nContact no.: +91 4321098765",
+    "admission department info": "Name: Mr. David Lee\nContact no.: +91 4321098765",
+    "admission info": "Name: Mr. David Lee\nContact no.: +91 4321098765",
+    "Admission Info": "Name: Mr. David Lee\nContact no.: +91 4321098765",
+
+    "Facilities": "1. Free Wi-Fi\n2. Library\n3. Indoor and Outdoor Sports\n4. Canteen\n5. Reading Hall",
+    "facilities": "1. Free Wi-Fi\n2. Library\n3. Indoor and Outdoor Sports\n4. Canteen\n5. Reading Hall",
+    "college facilities": "1. Free Wi-Fi\n2. Library\n3. Indoor and Outdoor Sports\n4. Canteen\n5. Reading Hall",
+    "College Facilities": "1. Free Wi-Fi\n2. Library\n3. Indoor and Outdoor Sports\n4. Canteen\n5. Reading Hall",
+
+    "All Years Fees Structure": "1) 1st year/FE:\n   - Open: ₹50,000\n   - OBC: ₹45,000\n   - SC/ST: ₹40,000\n   - NT: ₹42,000\n   - EWS: ₹43,000\n2) 2nd year/SE:\n   - Open: ₹55,000\n   - OBC: ₹50,000\n   - SC/ST: ₹45,000\n   - NT: ₹47,000\n   - EWS: ₹48,000\n3) 3rd year/TE:\n   - Open: ₹60,000\n   - OBC: ₹55,000\n   - SC/ST: ₹50,000\n   - NT: ₹52,000\n   - EWS: ₹53,000\n4) 4th year/BE:\n   - Open: ₹65,000\n   - OBC: ₹60,000\n   - SC/ST: ₹55,000\n   - NT: ₹57,000\n   - EWS: ₹58,000",
+    "all years fees structure": "1) 1st year/FE:\n   - Open: ₹50,000\n   - OBC: ₹45,000\n   - SC/ST: ₹40,000\n   - NT: ₹42,000\n   - EWS: ₹43,000\n2) 2nd year/SE:\n   - Open: ₹55,000\n   - OBC: ₹50,000\n   - SC/ST: ₹45,000\n   - NT: ₹47,000\n   - EWS: ₹48,000\n3) 3rd year/TE:\n   - Open: ₹60,000\n   - OBC: ₹55,000\n   - SC/ST: ₹50,000\n   - NT: ₹52,000\n   - EWS: ₹53,000\n4) 4th year/BE:\n   - Open: ₹65,000\n   - OBC: ₹60,000\n   - SC/ST: ₹55,000\n   - NT: ₹57,000\n   - EWS: ₹58,000",
+
+    "1st year fee structure/FE fee structure": "1. Open: ₹50,000\n2. OBC: ₹45,000\n3. SC/ST: ₹40,000\n4. NT: ₹42,000\n5. EWS: ₹43,000",
+    "2nd year fee structure/SE fee structure": "1. Open: ₹55,000\n2. OBC: ₹50,000\n3. SC/ST: ₹45,000\n4. NT: ₹47,000\n5. EWS: ₹48,000",
+    "3rd year fee structure/TE fee structure": "1. Open: ₹60,000\n2. OBC: ₹55,000\n3. SC/ST: ₹50,000\n4. NT: ₹52,000\n5. EWS: ₹53,000",
+    "4th year fee structure/BE fee structure": "1. Open: ₹65,000\n2. OBC: ₹60,000\n3. SC/ST: ₹55,000\n4. NT: ₹57,000\n5. EWS: ₹58,000",
+
+    "1st Year Fee Structure/FE Fee Structure": "1. Open: ₹50,000\n2. OBC: ₹45,000\n3. SC/ST: ₹40,000\n4. NT: ₹42,000\n5. EWS: ₹43,000",
+    "2nd Year Fee Structure/SE Fee Structure": "1. Open: ₹55,000\n2. OBC: ₹50,000\n3. SC/ST: ₹45,000\n4. NT: ₹47,000\n5. EWS: ₹48,000",
+    "3rd Year Fee Structure/TE Fee Structure": "1. Open: ₹60,000\n2. OBC: ₹55,000\n3. SC/ST: ₹50,000\n4. NT: ₹52,000\n5. EWS: ₹53,000",
+    "4th Year Fee Structure/BE Fee Structure": "1. Open: ₹65,000\n2. OBC: ₹60,000\n3. SC/ST: ₹55,000\n4. NT: ₹57,000\n5. EWS: ₹58,000",
+
+    "College Address": "123 College Road, Pune, Maharashtra, India - 411001",
+    "college address": "123 College Road, Pune, Maharashtra, India - 411001",
+    "Location": "123 College Road, Pune, Maharashtra, India - 411001",
+    "location": "123 College Road, Pune, Maharashtra, India - 411001",
+
+    "College Email": "info@college.edu",
+    "college email": "info@college.edu",
+
+    "College Contact": "Visit this link to contact directly to college: www.college.edu/contact",
+    "college contact": "Visit this link to contact directly to college: www.college.edu/contact",
+
+    "Students Intake?": "Our college has an intake of 120 students per year for the Computer Science program.",
+    "Fee Structure": "The fee structure for the Computer Science program is ₹50,000 per year.",
+    "HOD Contact": "You can contact the HOD of Computer Science at hod.cs@college.edu.",
+    "Placement Department Info": "Our placement department has a record of 90% placements in top companies.",
+    "Admission Department Info": "For admissions, please contact admissions@college.edu.",
+    "Facilities": "Our college provides state-of-the-art facilities including a library, labs, and sports complex.",
+    "india": "lavde"
+}
